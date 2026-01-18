@@ -1,4 +1,6 @@
-## HI, saya Tirto Aji
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/93b33e61-2cfd-4941-91e2-d194fc046f70" />
+
+---
 Saya lulusan **Sistem Informasi** dengan minat di bidang **Web Development** dan **Data Analysis**.  
 
 ---
