@@ -28,7 +28,7 @@ Sistem manajemen rental PlayStation berbasis web untuk mengelola konsol, pelangg
 <td width="50%" valign="top">
 
 ### 🌐 Share_Tech Sales  
-** Data Analis **
+**Data Analisis**
 ![company-profile-preview](https://github.com/user-attachments/assets/91a8d94d-caa1-41a6-9a52-dba58b97e0f0)
 
 Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform
@@ -43,6 +43,13 @@ Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong 
 ---
 ## 🛠️ Tech Stack & Skill
 
+### 📊 Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ### 💻 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
@@ -54,19 +61,8 @@ Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-
-## 📜 Sertifikasi
-![BNSP](https://img.shields.io/badge/BNSP-Data_Analyst-blue?style=for-the-badge)
-
----
 
 
