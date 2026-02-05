@@ -29,10 +29,10 @@ Sistem manajemen rental PlayStation berbasis web untuk mengelola konsol, pelangg
 
 ### 🌐 Share_Tech Sales  
 **Data Analisis**
-![company-profile-preview](https://github.com/user-attachments/assets/91a8d94d-caa1-41a6-9a52-dba58b97e0f0)
-
+![dasgif_V2](https://github.com/user-attachments/assets/65853420-6dff-4ea4-bff6-5b2a41d21d83)
 Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform
 [![Go to Repository](https://img.shields.io/badge/Go%20to%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirtoajin/Share_Tech)
+
 
 </td>
 </tr>
